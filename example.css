@@ -1,0 +1,38 @@
+
+body{
+  
+}
+
+.JS_Documentation{
+    position:fixed;
+   
+}
+.nav-main{
+    position:absolute;
+    top:40px;
+    left:0px;
+}
+nav{
+    width:25%;
+   float:left;
+   overflow:scroll;
+   height:500px;
+   position:relative;
+}
+
+main{
+    width:75%;
+    float:right;
+}
+.nav-link{
+    display:block;
+    padding:10px 20px;
+    font-size: 18px;
+    text-decoration:none;
+    border:1px solid black;
+}
+.JS_Documentation{
+    padding:10px 30px;
+    border:1px solid black;
+    font-size: 18px;
+}
